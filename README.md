@@ -15,3 +15,11 @@ ref: https://stackoverflow.com/questions/75912209/build-error-while-trying-to-pu
 >
 >If your case is similar to mine, it's fine to ignore. It happens because I want to be able to build my site locally AND using GitHub Pages. When I build locally, I need webrick, and when it gets build with GitHub Pages it works just fine, but it just gives you that warning. In my case, if I remove the Gemfile or the webrick line within it, the warning goes away. But then I can't build locally, so I just leave it and live with the warning.
 
+Gemfileに、github-actionsの環境でない場合のみwebrickを追加することで解決した。
+参考: https://github.com/github/pages-gem/issues/887#issuecomment-1773067676
+```
+install_if -> { ENV["GITHUB_ACTIONS"] != "true" } do
+  puts "Is GitHub action: #{ENV["GITHUB_ACTIONS"] == "true"}"
+  gem "webrick", "~> 1.8"
+end
+```
