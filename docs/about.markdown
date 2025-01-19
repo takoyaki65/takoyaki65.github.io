@@ -25,18 +25,20 @@ A student of the University of Tsukuba, Graduate School of Systems and Informati
   * Intermediate
     * Python
   * I have a little experience in the following languages:
+    * TypeScript (React)
     * Java
     * Ruby
     * Rust
-    * Pascal
   
 # Education
 * Mar. 2024: B.Eng., College of Information Science, University of Tsukuba
 * Mar. 2021: B.Eng., Mechanical Systems Program, Cluster III, School of Informatics and Engineering, University of Electro-Communications
 
-# Publications(First Author)
+# Publications (refereed)
+* Takuya Mizokami, Savong Bou, Toshiyuki Amagasa. Subtree Similarity Search Based on Structure and Text. Big Data Analytics and Knowledge Discovery. DaWaK 2024. Lecture Notes in Computer Science, vol 14912. pp. 72-87, 2024.
+* Kei Moriguchi, Takuya Mizokami, and Koichi Morishige, "Generation of a Robot Program and Determination of an Optimal Workpiece Placement Considering the Manipulability of Industrial Robots", International Journal of Automation Technology., Vol. 16 No.6, pp. 870-878, 2022.
+
+# Publications (non-refereed)
 * 溝上 拓也, 天笠俊之, Savong Bou, "テキスト及び構造に基づいた類似部分木検索", 情報処理学会第86回全国大会 (IPSJ全国大会 2024) 神奈川大学 横浜キャンパス（神奈川県）, page. 2M-06, 2024年3月15日~3月17日
 * 溝上拓也, Savong Bou, 天笠 俊之, "テキスト及び構造に基づく効率的な類似部分木検索手法", 第16回データ工学と情報マネジメントに関するフォーラム (DEIM 2024) アクリエひめじ（兵庫県姫路市）, page. T2-B-5-05, 2024年2月28日~3月1日（オンライン）, 2024年3月4日~3月5日（オンサイト）．
-
-# Publications(Co-Author)
-* Kei Moriguchi, Takuya Mizokami, and Koichi Morishige, "Generation of a Robot Program and Determination of an Optimal Workpiece Placement Considering the Manipulability of Industrial Robots", International Journal of Automation Technology., Vol. 16 No.6, pp. 870-878, 2022
+* Koichi Morishige, Takuya Mizokami, Kei Moriguchi, "Optimization of Workpiece Placement in Production Operation Using Industrial Robot", Proceedings of International Conference on Leading Edge Manufacturing in 21st century : LEM21, 2021, Volume 2021.10, Session ID 059-130, pp. 59-130, 2021.
